@@ -1,4 +1,4 @@
-## Adguard Home OpenWRT 24.10.2
+## Adguard Home OpenWRT 24.10.6
 
 ![Repo Name](https://img.shields.io/badge/repo-X86--OpenWrt--24.10.6-blue)
 
