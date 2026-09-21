@@ -18,7 +18,7 @@ Firmware ini berbasis dari OPENWRT OFFICIAL, dibuat untuk menjadikan sebuah komp
   Login & Address Info
 -Luci: http://naufalhomeserver.my.id pass: naufaladmin
 -Adguard Home Control Panel: http://adguardhome.my.id pass: naufaladmin
--Local Pairdrop: http://pairdrop.my.id 
+-Local Pairdrop: http://pairdrop.my.id
 -Local OpenSpeedTest: http://speedtest.my.id 
 
 ## Special Thanks to
