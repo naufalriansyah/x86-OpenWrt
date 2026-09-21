@@ -12,15 +12,14 @@ Firmware ini berbasis dari OPENWRT OFFICIAL, dibuat untuk menjadikan sebuah komp
 - etc
 
 ## OpenWrt Image Information
-Openwrt Information:
-Firmware Version:  OpenWrt 24.10.6 r29141-81be8a8869 
-Architecture: X86
+- Firmware Version:  OpenWrt 24.10.6 r29141-81be8a8869 
+- Architecture: X86
 
-Login & Address Info
-Luci: http://naufalhomeserver.my.id pass: naufaladmin
- Adguard Home Control Panel: http://adguardhome.my.id pass: naufaladmin
-Local Pairdrop: http://pairdrop.my.id 
-Local OpenSpeedTest: http://speedtest.my.id 
+  Login & Address Info
+-Luci: http://naufalhomeserver.my.id pass: naufaladmin
+-Adguard Home Control Panel: http://adguardhome.my.id pass: naufaladmin
+-Local Pairdrop: http://pairdrop.my.id 
+-Local OpenSpeedTest: http://speedtest.my.id 
 
 ## Special Thanks to
 - [God](https://id.wikipedia.org/wiki/Tuhan)
